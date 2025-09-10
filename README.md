@@ -17,7 +17,7 @@ Glaucoma:
 
 is a group of eye diseases that damage the optic nerve, often due to increased fluid pressure in the eye. It gradually leads to vision loss, starting with peripheral vision and potentially progressing to complete blindness. Timely diagnosis, treatment, and ongoing monitoring are vital for preserving vision and preventing irreversible damage.
 
-# Model Results (90% Accuracy in overall detection) and (>/= 90% accuracy in glaucoma, diabetic retinopathy, and cataract). High true positives for disease classes show model's robustness and predictive power. Lower true positives for normal class will need to be improved to avoid false negatives and ensure clinical relevance and efficiency.
+# Model Results (90% Accuracy in overall detection) and (>/= 90% accuracy in glaucoma, diabetic retinopathy, and cataract). High true positives for disease classes highlights model's robustness and predictive power. Lower true positives for normal class will need to be improved to avoid false negatives and ensure clinical relevance and efficiency.
 <img width="319" height="123" alt="{3505AAB2-ED99-48B2-8ED3-4CB98622229A}" src="https://github.com/user-attachments/assets/697f5bbf-2f23-4005-bab5-38c836e97602" />
 
 # Model Architecture: 
