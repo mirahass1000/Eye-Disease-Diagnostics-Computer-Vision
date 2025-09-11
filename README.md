@@ -1,6 +1,6 @@
 # Eye-Disease-Diagnostics-Computer-Vision
 
-The purpose of this study is to employ computer vision methodologies for the advancement of eye disease detection. To ensure better patient outcomes and clinical efficiency, research focus must be on utilizing and developing robust algorithms that will progress screening/early detection, diagnisis support, and treatment of eye diseases. This computer vision model based off advanced machine learning methodolgies known as deep learning (multi-layered neural networks) will detect eyes having:
+The purpose of this study is to employ computer vision methodologies for the advancement of eye disease classification. To ensure better patient outcomes and clinical efficiency, research focus must be on utilizing and developing robust algorithms that will progress screening/early detection, diagnisis support, and treatment of eye diseases. This computer vision model based off advanced machine learning methodolgies known as deep learning (multi-layered neural networks) will detect eyes having:
 glaucoma (= 0), normal (= 1), diabetic retinopathy (= 2), and cataract (= 3).
 
 # About the diseases:
